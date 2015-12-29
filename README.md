@@ -1,10 +1,10 @@
-Beijing, China
+Awesome Beijing, China [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================================================================================
-This is information about Beijing, China. Watch this repo to get notified about changes, especially ranking changes.
+This is a list of awesome people and things in Beijing, China. It is inspired by [awesome](https://github.com/sindresorhus/awesome). Currently, it includes the best programmers and projects. Watch this repo to get notified about changes, especially ranking changes.
 
-15 best programmers in Beijing, China
+Top 15 programmers in Beijing, China
 --------------------------------------------------------------------------------
-These are the 15 most influential programmers out of more than 250 programmers in Beijing, China.
+These are the 15 most influential programmers in Beijing, China. The score (in parentheses) is computed by combining projects, followers, and other information.
 
 1. 代码家 [@daimajia](https://github.com/daimajia) (61)
 2. Xinchen Hui [@laruence](https://github.com/laruence) (53)
@@ -22,4 +22,16 @@ These are the 15 most influential programmers out of more than 250 programmers i
 14. Baidu FEX Team [@BaiduFE](https://github.com/BaiduFE) (32)
 15. Wang, Xiaozhe [@chaoslawful](https://github.com/chaoslawful) (32)
 
-You can find the comprehensive statistics at the page for [Beijing, China](http://programmermap.com/area/beijing-china) at programmermap.com.
+You can find comprehensive statistics at the page for [Beijing, China](http://programmermap.com/area/beijing-china) at programmermap.com.
+
+5 most popular projects
+--------------------------------------------------------------------------------
+These are the five most popular projects (by stars) from local developers:
+
+1. [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) (6604)
+2. [jieba](https://github.com/fxsjy/jieba) (3255)
+3. [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) (3234)
+4. [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) (3123)
+5. [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) (3078)
+
+The link is taken from the repository description. If no link is provided there, the repository url is given.
